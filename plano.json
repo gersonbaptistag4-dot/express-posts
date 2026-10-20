@@ -1,5 +1,149 @@
 [
  {
+  "data": "2026-10-20",
+  "hora": "agora",
+  "casa": "identidade",
+  "pagina": "IDENTIDADE EXPRESS",
+  "tipo": "fixado",
+  "molde": "capa",
+  "slug": "quem-somos",
+  "imagens": [
+   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/identidade/fixados/1.jpg"
+  ],
+  "legenda": "Somos a IDENTIDADE EXPRESS. Desenhamos logótipos e identidades visuais para quem está a abrir negócio em Luanda.\n\nUm logótipo que se lê na foto de perfil, que imprime na lona sem desfocar e que é só seu. Mostramos sempre três caminhos diferentes para escolher.\n\nTudo pelo WhatsApp, sem ter de sair do seu negócio.\n\nVeja nos posts fixados como funciona e quanto custa.\n\nWhatsApp: 944 977 997\n\n#IdentidadeExpress #DesignAngola #Luanda #Angola #Logotipo",
+  "facebook": true,
+  "instagram": true,
+  "ordem": 1
+ },
+ {
+  "data": "2026-10-20",
+  "hora": "agora",
+  "casa": "identidade",
+  "pagina": "IDENTIDADE EXPRESS",
+  "tipo": "fixado",
+  "molde": "passos",
+  "slug": "como-funciona",
+  "imagens": [
+   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/identidade/fixados/2.jpg"
+  ],
+  "legenda": "Como funciona, da conversa ao logótipo.\n\n1. Conta-nos o negócio pelo WhatsApp: o nome, o que vende, para quem.\n2. Paga metade e digo-lhe a hora exacta da entrega.\n3. Até 24 horas depois, três logótipos diferentes para escolher.\n4. Duas rondas de alteração incluídas, e os ficheiros para tudo: a lona, o cartão, a foto de perfil.\n\nWhatsApp: 944 977 997\n\n#IdentidadeExpress #DesignAngola #Luanda #Angola #Logotipo",
+  "facebook": true,
+  "instagram": true,
+  "ordem": 2
+ },
+ {
+  "data": "2026-10-20",
+  "hora": "agora",
+  "casa": "identidade",
+  "pagina": "IDENTIDADE EXPRESS",
+  "tipo": "fixado",
+  "molde": "oferta",
+  "slug": "quanto-custa",
+  "imagens": [
+   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/identidade/fixados/3.jpg"
+  ],
+  "legenda": "Quanto custa, sem ter de perguntar:\n- Logótipo, três caminhos para escolher: 25.000 Kz, em 24 horas\n- Identidade visual, com o manual da marca: 45.000 Kz, em 24 horas\n- Um post: 5.000 Kz\n- Um carrossel, até 5 folhas: 15.000 Kz\n\nAs nossas garantias:\n- Digo-lhe a hora exacta. Se eu passar dela, faço-lhe um post à sua escolha, por minha conta.\n- Se, depois das duas rondas, nenhum dos três caminhos lhe servir, devolvo-lhe a primeira metade.\n\nPaga-se em duas metades. As 24 horas contam a partir do briefing fechado e da primeira metade.\n\nWhatsApp: 944 977 997\n\n#IdentidadeExpress #DesignAngola #Luanda #Angola #Logotipo",
+  "facebook": true,
+  "instagram": true,
+  "ordem": 3
+ },
+ {
+  "data": "2026-10-20",
+  "hora": "agora",
+  "casa": "marketing",
+  "pagina": "MARKETING EXPRESS",
+  "tipo": "fixado",
+  "molde": "capa",
+  "slug": "quem-somos",
+  "imagens": [
+   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/marketing/fixados/1.jpg"
+  ],
+  "legenda": "Somos a MARKETING EXPRESS, uma assessoria de marketing em Luanda para negócios que já vendem e querem mais clientes.\n\nTratamos das suas redes do princípio ao fim: o plano do mês, as publicações, os stories, os anúncios quando os há, e o relatório com as conversas que chegaram e quanto custou cada uma.\n\nVocê aprova o mês de uma vez e volta ao seu negócio.\n\nVeja nos posts fixados como funciona e quanto custa.\n\nWhatsApp: 944 977 997\n\n#MarketingExpress #NegociosEmAngola #Luanda #Angola #Empreendedorismo",
+  "facebook": true,
+  "instagram": true,
+  "ordem": 1
+ },
+ {
+  "data": "2026-10-20",
+  "hora": "agora",
+  "casa": "marketing",
+  "pagina": "MARKETING EXPRESS",
+  "tipo": "fixado",
+  "molde": "passos",
+  "slug": "como-funciona",
+  "imagens": [
+   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/marketing/fixados/2.jpg"
+  ],
+  "legenda": "Como funciona a assessoria, do primeiro dia ao relatório.\n\n1. Uma conversa: diz-nos o que quer alcançar.\n2. Em 24 horas, as publicações e os anúncios estão no ar.\n3. Vê o calendário do mês inteiro e aprova de uma vez.\n4. Até ao dia 3 de cada mês recebe o relatório: conversas e quanto custou cada uma.\n5. Tudo pelo WhatsApp, com resposta em até 5 minutos dentro do horário.\n\nSem reuniões que lhe tiram a manhã.\n\nWhatsApp: 944 977 997\n\n#MarketingExpress #NegociosEmAngola #Luanda #Angola #Empreendedorismo",
+  "facebook": true,
+  "instagram": true,
+  "ordem": 2
+ },
+ {
+  "data": "2026-10-20",
+  "hora": "agora",
+  "casa": "marketing",
+  "pagina": "MARKETING EXPRESS",
+  "tipo": "fixado",
+  "molde": "oferta",
+  "slug": "quanto-custa",
+  "imagens": [
+   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/marketing/fixados/3.jpg"
+  ],
+  "legenda": "Quanto custa? A assessoria começa em 35.000 Kz por mês.\n\nAs nossas garantias, por escrito:\n- Sem fidelização. Sai quando quiser, sem multa, e o que fizemos fica seu.\n- Cada publicação que falhar a data por culpa nossa, no mês seguinte publicamos duas.\n- Se, depois das duas rondas, o calendário do primeiro mês não lhe servir, devolvo-lhe o que pagou.\n\nOs anúncios, quando os há, pagam-se à parte, directamente à plataforma.\n\nEscreva-nos e dizemos-lhe qual dos planos serve ao seu negócio.\n\nWhatsApp: 944 977 997\n\n#MarketingExpress #NegociosEmAngola #Luanda #Angola #Empreendedorismo",
+  "facebook": true,
+  "instagram": true,
+  "ordem": 3
+ },
+ {
+  "data": "2026-10-20",
+  "hora": "agora",
+  "casa": "website",
+  "pagina": "WEBSITE EXPRESS",
+  "tipo": "fixado",
+  "molde": "capa",
+  "slug": "quem-somos",
+  "imagens": [
+   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/fixados/1.jpg"
+  ],
+  "legenda": "Somos a WEBSITE EXPRESS. Fazemos sites para pequenos negócios de Luanda.\n\nUm site com o seu nome, o que vende, os preços, a morada e o botão do WhatsApp, num link que manda a qualquer cliente e que abre bem no telemóvel, mesmo com a rede fraca.\n\nO primeiro plano fica no ar em 24 horas.\n\nVeja nos posts fixados como funciona e quanto custa.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "facebook": true,
+  "instagram": true,
+  "ordem": 1
+ },
+ {
+  "data": "2026-10-20",
+  "hora": "agora",
+  "casa": "website",
+  "pagina": "WEBSITE EXPRESS",
+  "tipo": "fixado",
+  "molde": "passos",
+  "slug": "como-funciona",
+  "imagens": [
+   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/fixados/2.jpg"
+  ],
+  "legenda": "Como funciona, do WhatsApp ao site no ar.\n\n1. Conta-nos o negócio pelo WhatsApp: o que vende, os preços, as fotografias.\n2. Paga metade e dizemos-lhe a hora exacta em que fica pronto.\n3. Em 24 horas, o site no ar com o seu nome (no plano de 70.000 Kz).\n4. Nos primeiros 30 dias, duas alterações pequenas incluídas.\n\nNão precisa de sair do seu negócio para nada.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "facebook": true,
+  "instagram": true,
+  "ordem": 2
+ },
+ {
+  "data": "2026-10-20",
+  "hora": "agora",
+  "casa": "website",
+  "pagina": "WEBSITE EXPRESS",
+  "tipo": "fixado",
+  "molde": "oferta",
+  "slug": "quanto-custa",
+  "imagens": [
+   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/fixados/3.jpg"
+  ],
+  "legenda": "Quanto custa? Sites a partir de 70.000 Kz, no ar em 24 horas.\n\nAs nossas garantias, por escrito:\n- O domínio fica em seu nome, sempre. Se um dia quiser sair, leva-o.\n- Digo-lhe a hora exacta. Se eu passar dela, faço-lhe um post à sua escolha, por minha conta (no plano de 70.000 Kz).\n- Se, depois das duas rondas, não quiser pôr o site no ar, devolvo-lhe a primeira metade.\n\nPaga-se em duas metades.\n\nEscreva-nos e dizemos-lhe qual dos planos serve ao seu negócio.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "facebook": true,
+  "instagram": true,
+  "ordem": 3
+ },
+ {
   "data": "2026-10-21",
   "hora": "07:30",
   "casa": "marketing",
@@ -25,7 +169,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-10-21/post.jpg"
   ],
-  "legenda": "São 21h. Amanhã é o aniversário da filha e alguém no Kilamba está a escrever no telemóvel: \"bolos de aniversário Kilamba encomenda\".\n\nAparece a pastelaria do vizinho. A sua, que faz o melhor bolo da centralidade, não aparece.\n\nUm site com o seu nome, os seus bolos, o preço e o botão do WhatsApp é o que faz a diferença entre estar na pesquisa ou ficar de fora.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "São 21h. Amanhã é o aniversário da filha e alguém no Kilamba está a escrever no telemóvel: \"bolos de aniversário Kilamba encomenda\".\n\nAparece a pastelaria do vizinho. A sua, que faz o melhor bolo da centralidade, não aparece.\n\nUm site com o seu nome, os seus bolos, o preço e o botão do WhatsApp é o que faz a diferença entre estar na pesquisa ou ficar de fora.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -70,7 +214,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-10-22/post.jpg"
   ],
-  "legenda": "Acontece em Luanda todas as noites.\n\nO cliente escreve às 23h, quer saber o preço e quer para amanhã cedo. A resposta sai às 8h. Ele já foi a outro lado.\n\nUm site não dorme: mostra o catálogo, o preço, onde fica e como se paga, a qualquer hora. Quando o cliente escreve, já escreve a saber o que quer.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem responde às mensagens só de manhã.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Acontece em Luanda todas as noites.\n\nO cliente escreve às 23h, quer saber o preço e quer para amanhã cedo. A resposta sai às 8h. Ele já foi a outro lado.\n\nUm site não dorme: mostra o catálogo, o preço, onde fica e como se paga, a qualquer hora. Quando o cliente escreve, já escreve a saber o que quer.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem responde às mensagens só de manhã.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -115,7 +259,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-10-23/post.jpg"
   ],
-  "legenda": "O Instagram é óptimo. Mas a casa não é sua.\n\nSe a conta for bloqueada, se o algoritmo mudar, se perder o acesso, perde a montra inteira de um dia para o outro.\n\nUm site com o seu nome é a casa própria do seu negócio: ninguém a fecha por si, e as redes passam a ser a porta que leva lá.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem tem o negócio inteiro numa conta de Instagram.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "O Instagram é óptimo. Mas a casa não é sua.\n\nSe a conta for bloqueada, se o algoritmo mudar, se perder o acesso, perde a montra inteira de um dia para o outro.\n\nUm site com o seu nome é a casa própria do seu negócio: ninguém a fecha por si, e as redes passam a ser a porta que leva lá.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem tem o negócio inteiro numa conta de Instagram.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -160,7 +304,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-10-24/post.jpg"
   ],
-  "legenda": "Das 17h às 19h, Luanda está parada. E quem está parado está no telemóvel.\n\nÉ a hora em que muita gente procura onde jantar, o que comprar para amanhã, ou aquele contacto que um amigo mandou. Se o seu site demora, se as letras não cabem no ecrã ou se o botão do WhatsApp não aparece, o cliente volta ao TikTok em dois segundos.\n\nOs sites que fazemos são feitos primeiro para o telemóvel: leves, rápidos e com o botão do WhatsApp sempre à mão.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem está agora mesmo preso no trânsito.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Das 17h às 19h, Luanda está parada. E quem está parado está no telemóvel.\n\nÉ a hora em que muita gente procura onde jantar, o que comprar para amanhã, ou aquele contacto que um amigo mandou. Se o seu site demora, se as letras não cabem no ecrã ou se o botão do WhatsApp não aparece, o cliente volta ao TikTok em dois segundos.\n\nOs sites que fazemos são feitos primeiro para o telemóvel: leves, rápidos e com o botão do WhatsApp sempre à mão.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem está agora mesmo preso no trânsito.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -215,7 +359,7 @@
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-10-25/5.jpg",
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-10-25/6.jpg"
   ],
-  "legenda": "Em Luanda as moradas dão-se assim: \"depois do salão de beleza\", \"a casa azul do quintal da mangueira\", \"onde era a bomba antiga\".\n\nFunciona para quem é do bairro. Para um cliente novo é uma caça ao tesouro, e muitos desistem antes de chegar.\n\nUm site com o mapa, a morada escrita como se diz em Luanda e o botão do WhatsApp resolve isto num link só. (A Doces da Nela é um exemplo, não é cliente.)\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nQual é a morada mais à Luanda que já lhe deram? Escreva nos comentários.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Em Luanda as moradas dão-se assim: \"depois do salão de beleza\", \"a casa azul do quintal da mangueira\", \"onde era a bomba antiga\".\n\nFunciona para quem é do bairro. Para um cliente novo é uma caça ao tesouro, e muitos desistem antes de chegar.\n\nUm site com o mapa, a morada escrita como se diz em Luanda e o botão do WhatsApp resolve isto num link só. (A Doces da Nela é um exemplo, não é cliente.)\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nQual é a morada mais à Luanda que já lhe deram? Escreva nos comentários.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": false,
   "instagram": true
  },
@@ -264,7 +408,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-10-26/post.jpg"
   ],
-  "legenda": "Choveu a noite toda em Luanda. Às 6h da manhã há um balde no meio da sala e alguém a escrever no telemóvel: \"arranjar telhado Viana hoje\".\n\nNão vai esperar por segunda-feira nem por uma recomendação. Liga ao primeiro contacto que lhe parecer sério.\n\nSe o seu trabalho é telhados, canalizações ou electricidade, um site com o seu nome, fotografias dos trabalhos, a zona onde atende e o botão do WhatsApp é o que faz de si um contacto sério a essa hora.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem arranja telhados e só trabalha por recomendação.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Choveu a noite toda em Luanda. Às 6h da manhã há um balde no meio da sala e alguém a escrever no telemóvel: \"arranjar telhado Viana hoje\".\n\nNão vai esperar por segunda-feira nem por uma recomendação. Liga ao primeiro contacto que lhe parecer sério.\n\nSe o seu trabalho é telhados, canalizações ou electricidade, um site com o seu nome, fotografias dos trabalhos, a zona onde atende e o botão do WhatsApp é o que faz de si um contacto sério a essa hora.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem arranja telhados e só trabalha por recomendação.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -309,7 +453,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-10-27/post.jpg"
   ],
-  "legenda": "Seja sincero: onde estão os cartões de visita que lhe deram este ano?\n\nNa carteira, no carro, numa gaveta. E quando precisa daquele contacto, não o encontra.\n\nUm link não se perde. Manda-se no WhatsApp, reencaminha-se ao grupo da família, abre-se em qualquer telemóvel e mostra tudo: o que faz, quanto custa, onde fica e como falar consigo.\n\nO cartão continua a servir. Mas que leve o link do site.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem ainda tem uma caixa de cartões por distribuir.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Seja sincero: onde estão os cartões de visita que lhe deram este ano?\n\nNa carteira, no carro, numa gaveta. E quando precisa daquele contacto, não o encontra.\n\nUm link não se perde. Manda-se no WhatsApp, reencaminha-se ao grupo da família, abre-se em qualquer telemóvel e mostra tudo: o que faz, quanto custa, onde fica e como falar consigo.\n\nO cartão continua a servir. Mas que leve o link do site.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem ainda tem uma caixa de cartões por distribuir.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -354,7 +498,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-10-28/post.jpg"
   ],
-  "legenda": "Repare na roulotte do seu bairro. O menu está na lona, os preços também, e a fila anda depressa.\n\nNinguém chega a perguntar \"o que é que há?\". Chega a pedir \"um pão com chouriço e um sumo\".\n\nÉ isto que um site faz por um negócio: o cliente vê o que há, quanto custa e onde fica antes de falar consigo. A conversa no WhatsApp começa já no pedido, e não no \"boa tarde, quanto é?\".\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda ao dono da roulotte onde jantas às sextas.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Repare na roulotte do seu bairro. O menu está na lona, os preços também, e a fila anda depressa.\n\nNinguém chega a perguntar \"o que é que há?\". Chega a pedir \"um pão com chouriço e um sumo\".\n\nÉ isto que um site faz por um negócio: o cliente vê o que há, quanto custa e onde fica antes de falar consigo. A conversa no WhatsApp começa já no pedido, e não no \"boa tarde, quanto é?\".\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda ao dono da roulotte onde jantas às sextas.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -404,7 +548,7 @@
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-10-29/5.jpg",
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-10-29/6.jpg"
   ],
-  "legenda": "Onde fica? Quanto custa? Fazem entrega? Como é que pago?\n\nSe tem um negócio em Luanda, respondeu a pelo menos uma destas hoje. Talvez a todas, várias vezes.\n\nUm site responde às quatro antes de o cliente perguntar: o mapa, os preços, as zonas de entrega e os dados de pagamento, tudo num link. Quando ele escreve, já escreve para encomendar.\n\n(A Loja da Esquina é um exemplo, não é cliente.)\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem responde à mesma pergunta o dia todo.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Onde fica? Quanto custa? Fazem entrega? Como é que pago?\n\nSe tem um negócio em Luanda, respondeu a pelo menos uma destas hoje. Talvez a todas, várias vezes.\n\nUm site responde às quatro antes de o cliente perguntar: o mapa, os preços, as zonas de entrega e os dados de pagamento, tudo num link. Quando ele escreve, já escreve para encomendar.\n\n(A Loja da Esquina é um exemplo, não é cliente.)\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem responde à mesma pergunta o dia todo.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": false,
   "instagram": true
  },
@@ -454,7 +598,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-10-30/post.jpg"
   ],
-  "legenda": "Fim de tarde, o cliente pede fotos. A loja manda uma, duas, vinte e três.\n\nDo outro lado, a rede está fraca, metade não abre, e o cliente já nem sabe qual era o sapato de que gostou.\n\nUm site com o catálogo resolve isto num link: fotos leves, o preço por baixo de cada uma e o botão do WhatsApp para pedir. O cliente vê ao ritmo dele, e a loja deixa de passar a tarde a enviar fotografias.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem passa a tarde a enviar fotos de produtos um a um.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Fim de tarde, o cliente pede fotos. A loja manda uma, duas, vinte e três.\n\nDo outro lado, a rede está fraca, metade não abre, e o cliente já nem sabe qual era o sapato de que gostou.\n\nUm site com o catálogo resolve isto num link: fotos leves, o preço por baixo de cada uma e o botão do WhatsApp para pedir. O cliente vê ao ritmo dele, e a loja deixa de passar a tarde a enviar fotografias.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem passa a tarde a enviar fotos de produtos um a um.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -503,7 +647,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-10-31/post.jpg"
   ],
-  "legenda": "Último sábado do mês, o salário já caiu. Em muitas casas de Luanda a pergunta é a mesma: \"onde vamos jantar hoje?\"\n\nE a resposta procura-se no telemóvel. Aparecem dois ou três sítios, abre-se o menu, vê-se o preço, e decide-se.\n\nSe o seu restaurante não tem um site com o menu, os preços, o horário e o botão para reservar no WhatsApp, nem chega a entrar nessa conversa.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda ao dono daquele restaurante bom que ninguém encontra na internet.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Último sábado do mês, o salário já caiu. Em muitas casas de Luanda a pergunta é a mesma: \"onde vamos jantar hoje?\"\n\nE a resposta procura-se no telemóvel. Aparecem dois ou três sítios, abre-se o menu, vê-se o preço, e decide-se.\n\nSe o seu restaurante não tem um site com o menu, os preços, o horário e o botão para reservar no WhatsApp, nem chega a entrar nessa conversa.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda ao dono daquele restaurante bom que ninguém encontra na internet.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -548,7 +692,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-01/post.jpg"
   ],
-  "legenda": "Mês novo, página nova.\n\nHá negócios que são óptimos e difíceis de encontrar: só quem já é cliente sabe o número, a morada e o que vendem.\n\nNovembro é o mês em que se começa a preparar o Natal. Quem já tem o negócio num link chega a Dezembro com tudo à vista.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nDiga nos comentários o que muda no seu negócio este mês. E manda a quem anda a adiar o site desde Janeiro.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Mês novo, página nova.\n\nHá negócios que são óptimos e difíceis de encontrar: só quem já é cliente sabe o número, a morada e o que vendem.\n\nNovembro é o mês em que se começa a preparar o Natal. Quem já tem o negócio num link chega a Dezembro com tudo à vista.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nDiga nos comentários o que muda no seu negócio este mês. E manda a quem anda a adiar o site desde Janeiro.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -642,7 +786,7 @@
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-03/4.jpg",
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-03/5.jpg"
   ],
-  "legenda": "Chegaram as chuvas. Rua alagada, candongueiro sem passar, e quem pode fica em casa.\n\nMas a necessidade não fica à porta: o cimento para o tecto, o gás, o medicamento, a encomenda. Procura-se no telemóvel.\n\nQuem tem um site com fotos, preços, zonas de entrega e o botão do WhatsApp está aberto mesmo quando a rua fecha.\n\n(A Ferragens do Bairro é um exemplo, não é cliente.)\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem tem loja numa rua que alaga.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Chegaram as chuvas. Rua alagada, candongueiro sem passar, e quem pode fica em casa.\n\nMas a necessidade não fica à porta: o cimento para o tecto, o gás, o medicamento, a encomenda. Procura-se no telemóvel.\n\nQuem tem um site com fotos, preços, zonas de entrega e o botão do WhatsApp está aberto mesmo quando a rua fecha.\n\n(A Ferragens do Bairro é um exemplo, não é cliente.)\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem tem loja numa rua que alaga.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": false,
   "instagram": true
  },
@@ -657,7 +801,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/identidade/2026-11-03/post.jpg"
   ],
-  "legenda": "A pergunta que mais nos fazem: qual é a diferença entre um logótipo e uma identidade visual?\n\nO logótipo é a cara do negócio. A identidade visual é a maneira de usar essa cara em todo o lado: as cores com os códigos, as letras, o cartão, o papel timbrado e o manual que diz como se faz.\n\nSem identidade, cada pessoa que faz a placa, o cartão ou a página escolhe à sua maneira, e o negócio parece três negócios.\n\nLogótipo: 25.000 Kz. Identidade visual: 45.000 Kz, pronta em 72 horas. Quem já fez o logótipo connosco sobe para a identidade por mais 20.000 Kz.\n\nManda a quem tem logótipo mas cada sítio do negócio está de uma cor.\n\nWhatsApp: 944 977 997\n\n#IdentidadeExpress #DesignAngola #Luanda #Angola #Logotipo",
+  "legenda": "A pergunta que mais nos fazem: qual é a diferença entre um logótipo e uma identidade visual?\n\nO logótipo é a cara do negócio. A identidade visual é a maneira de usar essa cara em todo o lado: as cores com os códigos, as letras, o cartão, o papel timbrado e o manual que diz como se faz.\n\nSem identidade, cada pessoa que faz a placa, o cartão ou a página escolhe à sua maneira, e o negócio parece três negócios.\n\nLogótipo: 25.000 Kz. Identidade visual: 45.000 Kz, pronta em 24 horas. Quem já fez o logótipo connosco sobe para a identidade por mais 20.000 Kz.\n\nManda a quem tem logótipo mas cada sítio do negócio está de uma cor.\n\nWhatsApp: 944 977 997\n\n#IdentidadeExpress #DesignAngola #Luanda #Angola #Logotipo",
   "facebook": true,
   "instagram": true
  },
@@ -691,7 +835,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-04/post.jpg"
   ],
-  "legenda": "Domingo, 9h. O cliente quer saber se a loja abre hoje antes de sair de casa.\n\nManda mensagem. Ninguém responde, porque é domingo e o dono está com a família. Às 10h já foi a outro lado.\n\nUm site com o horário escrito (os dias, as horas, os feriados) responde a esta pergunta sozinho, sem ninguém ter de pegar no telemóvel.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem passa o domingo a responder \"sim, estamos abertos\".\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Domingo, 9h. O cliente quer saber se a loja abre hoje antes de sair de casa.\n\nManda mensagem. Ninguém responde, porque é domingo e o dono está com a família. Às 10h já foi a outro lado.\n\nUm site com o horário escrito (os dias, as horas, os feriados) responde a esta pergunta sozinho, sem ninguém ter de pegar no telemóvel.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem passa o domingo a responder \"sim, estamos abertos\".\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -740,7 +884,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-05/post.jpg"
   ],
-  "legenda": "Dezembro é mês de casamentos em Luanda, e os noivos já andam a fechar tudo: o salão, o bolo, o vestido, o fotógrafo.\n\nProcuram no telemóvel, abrem portefólios, comparam. Escolhem quem conseguem ver.\n\nSe é fotógrafo, decorador ou faz bolos de noiva, um site com os seus trabalhos, os pacotes e o botão do WhatsApp é a primeira coisa que os noivos abrem antes de lhe ligar.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda ao fotógrafo que tem os melhores trabalhos guardados no disco.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Dezembro é mês de casamentos em Luanda, e os noivos já andam a fechar tudo: o salão, o bolo, o vestido, o fotógrafo.\n\nProcuram no telemóvel, abrem portefólios, comparam. Escolhem quem conseguem ver.\n\nSe é fotógrafo, decorador ou faz bolos de noiva, um site com os seus trabalhos, os pacotes e o botão do WhatsApp é a primeira coisa que os noivos abrem antes de lhe ligar.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda ao fotógrafo que tem os melhores trabalhos guardados no disco.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -785,7 +929,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-06/post.jpg"
   ],
-  "legenda": "Muita gente esconde o preço para obrigar o cliente a falar. A ideia é abrir conversa.\n\nSó que muitos clientes não perguntam. Vêem \"preço no off\", pensam que é caro, e passam à loja seguinte.\n\nMostrar o preço (ou pelo menos um \"a partir de\") separa quem pode de quem não pode, e as conversas que chegam já vêm para comprar.\n\nNós damos o exemplo: Sites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem responde \"no off\" a todos os comentários.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Muita gente esconde o preço para obrigar o cliente a falar. A ideia é abrir conversa.\n\nSó que muitos clientes não perguntam. Vêem \"preço no off\", pensam que é caro, e passam à loja seguinte.\n\nMostrar o preço (ou pelo menos um \"a partir de\") separa quem pode de quem não pode, e as conversas que chegam já vêm para comprar.\n\nNós damos o exemplo: Sites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem responde \"no off\" a todos os comentários.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -830,7 +974,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-07/post.jpg"
   ],
-  "legenda": "Parece cedo, mas não é. As empresas já pedem orçamentos de cabazes, as famílias já perguntam pelo bolo-rei, e quem está fora já pensa no que mandar para casa.\n\nQuem vende para o Natal e chega a Dezembro sem catálogo passa as festas a mandar fotos uma a uma.\n\nUm site com os produtos, os preços, a data limite das encomendas e o botão do WhatsApp fica pronto em 3 dias no ESSENCIAL. Ainda dá tempo.\n\nSites a partir de 70.000 Kz.\n\nManda a quem faz bolos de Natal por encomenda.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Parece cedo, mas não é. As empresas já pedem orçamentos de cabazes, as famílias já perguntam pelo bolo-rei, e quem está fora já pensa no que mandar para casa.\n\nQuem vende para o Natal e chega a Dezembro sem catálogo passa as festas a mandar fotos uma a uma.\n\nUm site com os produtos, os preços, a data limite das encomendas e o botão do WhatsApp fica pronto em 24 horas no ESSENCIAL. Ainda dá tempo.\n\nSites a partir de 70.000 Kz.\n\nManda a quem faz bolos de Natal por encomenda.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -880,7 +1024,7 @@
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-08/5.jpg",
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-08/6.jpg"
   ],
-  "legenda": "Passe uma manhã num mercado de Luanda e repare no vendedor que vende mais.\n\nDiz o preço em voz alta. Deixa ver e provar. Conhece os fregueses pelo nome. E está sempre na mesma banca.\n\nUm bom site faz exactamente o mesmo: preço à vista, fotografias verdadeiras, o WhatsApp a um toque e um endereço que não muda.\n\n(A Banca da Dona Rosa é um exemplo, não é cliente.)\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem vende no mercado e quer vender também online.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Passe uma manhã num mercado de Luanda e repare no vendedor que vende mais.\n\nDiz o preço em voz alta. Deixa ver e provar. Conhece os fregueses pelo nome. E está sempre na mesma banca.\n\nUm bom site faz exactamente o mesmo: preço à vista, fotografias verdadeiras, o WhatsApp a um toque e um endereço que não muda.\n\n(A Banca da Dona Rosa é um exemplo, não é cliente.)\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem vende no mercado e quer vender também online.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": false,
   "instagram": true
  },
@@ -930,7 +1074,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-09/post.jpg"
   ],
-  "legenda": "Há clientes que não compram por impulso: compram para uma empresa, um condomínio, uma escola.\n\nAntes de fecharem, precisam de mostrar ao chefe quem é o fornecedor. Um nome, um endereço, trabalhos feitos, contactos. Um perfil numa rede social nem sempre chega.\n\nUm site com o seu nome é o bilhete de identidade do seu negócio. É o que se manda ao chefe com a frase \"é este\".\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem trabalha para empresas e ainda não tem site.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline\n\nFoto: D-Stanley, CC BY 2.0.",
+  "legenda": "Há clientes que não compram por impulso: compram para uma empresa, um condomínio, uma escola.\n\nAntes de fecharem, precisam de mostrar ao chefe quem é o fornecedor. Um nome, um endereço, trabalhos feitos, contactos. Um perfil numa rede social nem sempre chega.\n\nUm site com o seu nome é o bilhete de identidade do seu negócio. É o que se manda ao chefe com a frase \"é este\".\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem trabalha para empresas e ainda não tem site.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline\n\nFoto: D-Stanley, CC BY 2.0.",
   "facebook": true,
   "instagram": true
  },
@@ -979,7 +1123,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-10/post.jpg"
   ],
-  "legenda": "Amanhã Angola faz 51 anos de independência.\n\nFaça um teste: escreva no telemóvel o que vende e o seu bairro. Quem aparece? Às vezes aparece uma loja de fora do país a vender o que se faz cá.\n\nUm site com o seu nome, o seu produto e o seu número angolano põe o que é feito cá onde as pessoas procuram.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem faz em Angola o que muita gente compra de fora.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline\n\nFoto: D-Stanley, CC BY 2.0.",
+  "legenda": "Amanhã Angola faz 51 anos de independência.\n\nFaça um teste: escreva no telemóvel o que vende e o seu bairro. Quem aparece? Às vezes aparece uma loja de fora do país a vender o que se faz cá.\n\nUm site com o seu nome, o seu produto e o seu número angolano põe o que é feito cá onde as pessoas procuram.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem faz em Angola o que muita gente compra de fora.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline\n\nFoto: D-Stanley, CC BY 2.0.",
   "facebook": true,
   "instagram": true
  },
@@ -1069,7 +1213,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-12/post.jpg"
   ],
-  "legenda": "\"Vou pensar.\" Quem vende ouve isto todos os dias.\n\nE o cliente vai mesmo pensar. À noite, no sofá, com o telemóvel na mão: volta a ver os preços, as fotos, o que os outros dizem.\n\nSe o seu negócio só existe na conversa que tiveram de manhã, ele pensa no que consegue ver. Um site deixa o seu negócio na mão dele, para rever quantas vezes quiser.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem ouviu \"vou pensar\" hoje.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "\"Vou pensar.\" Quem vende ouve isto todos os dias.\n\nE o cliente vai mesmo pensar. À noite, no sofá, com o telemóvel na mão: volta a ver os preços, as fotos, o que os outros dizem.\n\nSe o seu negócio só existe na conversa que tiveram de manhã, ele pensa no que consegue ver. Um site deixa o seu negócio na mão dele, para rever quantas vezes quiser.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem ouviu \"vou pensar\" hoje.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -1119,7 +1263,7 @@
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-13/5.jpg",
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-13/6.jpg"
   ],
-  "legenda": "O cliente abre o site e, em poucos segundos, decide se fica ou se fecha.\n\nFecha quando o número não tem botão, quando não há um único preço, quando as fotos não abrem com a rede fraca, e quando os preços ainda são de 2023.\n\nOs sites que fazemos levam o botão do WhatsApp sempre à vista e são feitos primeiro para o telemóvel. E com a manutenção (12.000 Kz por mês) os preços e as fotos ficam sempre em dia.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem tem um site parado desde 2023.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "O cliente abre o site e, em poucos segundos, decide se fica ou se fecha.\n\nFecha quando o número não tem botão, quando não há um único preço, quando as fotos não abrem com a rede fraca, e quando os preços ainda são de 2023.\n\nOs sites que fazemos levam o botão do WhatsApp sempre à vista e são feitos primeiro para o telemóvel. E com a manutenção (12.000 Kz por mês) os preços e as fotos ficam sempre em dia.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem tem um site parado desde 2023.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": false,
   "instagram": true
  },
@@ -1168,7 +1312,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-14/post.jpg"
   ],
-  "legenda": "O grupo da família é dos maiores mercados de Luanda. Todos os dias alguém pergunta: \"alguém conhece um bom...?\"\n\nE alguém conhece. Mas na hora de passar o contacto, não há link, não há fotos, só \"fala com a minha vizinha\".\n\nUm site com o seu nome, fotografias dos trabalhos e o botão do WhatsApp é o que a sua cliente satisfeita manda ao grupo. A recomendação dela chega inteira.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda à costureira, ao mecânico ou à cabeleireira que toda a família recomenda.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "O grupo da família é dos maiores mercados de Luanda. Todos os dias alguém pergunta: \"alguém conhece um bom...?\"\n\nE alguém conhece. Mas na hora de passar o contacto, não há link, não há fotos, só \"fala com a minha vizinha\".\n\nUm site com o seu nome, fotografias dos trabalhos e o botão do WhatsApp é o que a sua cliente satisfeita manda ao grupo. A recomendação dela chega inteira.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda à costureira, ao mecânico ou à cabeleireira que toda a família recomenda.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -1218,7 +1362,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-15/post.jpg"
   ],
-  "legenda": "Fim de ano lectivo, as provas à porta, e a nota de matemática não está boa.\n\nDomingo à noite, os pais procuram explicações no telemóvel. Querem saber quem dá, onde, a que horas e quanto custa.\n\nSe dá explicações ou tem um centro de estudos, um site com as disciplinas, os horários, o preço e o botão do WhatsApp é o que os pais conseguem verificar antes de ligar.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda ao explicador que todo o bairro conhece e a internet não.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Fim de ano lectivo, as provas à porta, e a nota de matemática não está boa.\n\nDomingo à noite, os pais procuram explicações no telemóvel. Querem saber quem dá, onde, a que horas e quanto custa.\n\nSe dá explicações ou tem um centro de estudos, um site com as disciplinas, os horários, o preço e o botão do WhatsApp é o que os pais conseguem verificar antes de ligar.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda ao explicador que todo o bairro conhece e a internet não.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -1263,7 +1407,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-16/post.jpg"
   ],
-  "legenda": "Começa hoje a Semana Global do Empreendedorismo, celebrada em muitos países.\n\nEm Angola, abrir um negócio pede coragem: arranjar o espaço, o produto, os primeiros clientes, e aguentar os meses difíceis.\n\nDepois de tudo isso, não faz sentido o negócio ficar escondido. Esta semana publicamos para quem tem negócio: o que um site deve ter, e porque é que conta.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nDiga nos comentários há quanto tempo tem o seu negócio. E manda a quem abriu as portas este ano.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Começa hoje a Semana Global do Empreendedorismo, celebrada em muitos países.\n\nEm Angola, abrir um negócio pede coragem: arranjar o espaço, o produto, os primeiros clientes, e aguentar os meses difíceis.\n\nDepois de tudo isso, não faz sentido o negócio ficar escondido. Esta semana publicamos para quem tem negócio: o que um site deve ter, e porque é que conta.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nDiga nos comentários há quanto tempo tem o seu negócio. E manda a quem abriu as portas este ano.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -1308,7 +1452,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-17/post.jpg"
   ],
-  "legenda": "Os bolos que começaram na cozinha da mãe. O salão que começou na varanda. A oficina que começou no quintal.\n\nEm Luanda, muitos negócios nascem em casa. E está tudo bem.\n\nO problema é que o cliente novo não sabe onde é, nem se é sério. Um site com o seu nome dá ao negócio um endereço próprio, com fotos, preços e o WhatsApp, antes de haver loja.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem tem o negócio a crescer no quintal.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Os bolos que começaram na cozinha da mãe. O salão que começou na varanda. A oficina que começou no quintal.\n\nEm Luanda, muitos negócios nascem em casa. E está tudo bem.\n\nO problema é que o cliente novo não sabe onde é, nem se é sério. Um site com o seu nome dá ao negócio um endereço próprio, com fotos, preços e o WhatsApp, antes de haver loja.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem tem o negócio a crescer no quintal.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -1358,7 +1502,7 @@
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-18/5.jpg",
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-18/6.jpg"
   ],
-  "legenda": "Semana do Empreendedorismo. Para quem está a começar: o primeiro site não precisa de vinte páginas. Precisa de quatro coisas.\n\n1. O que faz, numa frase.\n2. Fotografias verdadeiras.\n3. O preço, ou pelo menos um \"a partir de\".\n4. O botão do WhatsApp sempre à vista.\n\nÉ isto que leva o ESSENCIAL: \"O seu negócio na internet em 3 dias, com o seu nome.\" A partir de 70.000 Kz.\n\nGuarde este post. E mande a quem está a abrir negócio.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Semana do Empreendedorismo. Para quem está a começar: o primeiro site não precisa de vinte páginas. Precisa de quatro coisas.\n\n1. O que faz, numa frase.\n2. Fotografias verdadeiras.\n3. O preço, ou pelo menos um \"a partir de\".\n4. O botão do WhatsApp sempre à vista.\n\nÉ isto que leva o ESSENCIAL: \"O seu negócio na internet em 24 horas, com o seu nome.\" A partir de 70.000 Kz.\n\nGuarde este post. E mande a quem está a abrir negócio.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": false,
   "instagram": true
  },
@@ -1408,7 +1552,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-19/post.jpg"
   ],
-  "legenda": "O cliente decidiu. Quer comprar. Está no intervalo do almoço, com o telemóvel na mão e meia hora livre.\n\nPergunta como se paga. A resposta chega 30 minutos depois, e o intervalo já acabou. \"Fica para outro dia\" quase nunca volta.\n\nUm site com a forma de pagamento escrita (transferência, Multicaixa Express, na entrega) deixa o cliente pagar na hora em que decidiu.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem perde vendas por responder \"já mando os dados\".\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline\n\nFoto: NinaIngenkamp, CC BY 2.0.",
+  "legenda": "O cliente decidiu. Quer comprar. Está no intervalo do almoço, com o telemóvel na mão e meia hora livre.\n\nPergunta como se paga. A resposta chega 30 minutos depois, e o intervalo já acabou. \"Fica para outro dia\" quase nunca volta.\n\nUm site com a forma de pagamento escrita (transferência, Multicaixa Express, na entrega) deixa o cliente pagar na hora em que decidiu.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem perde vendas por responder \"já mando os dados\".\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline\n\nFoto: NinaIngenkamp, CC BY 2.0.",
   "facebook": true,
   "instagram": true
  },
@@ -1457,7 +1601,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-20/post.jpg"
   ],
-  "legenda": "Novembro é quando as empresas de Luanda marcam o jantar de fim de ano. E quem organiza procura catering no telemóvel, entre duas reuniões.\n\nQuer ver os menus, as fotos dos eventos, o preço por pessoa e como se pede orçamento. Sem isso, passa ao seguinte.\n\nSe faz catering ou eventos, um site com os menus, as fotos e o botão do WhatsApp é o que a pessoa das compras manda ao chefe.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem faz catering e ainda manda o menu em fotografia.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Novembro é quando as empresas de Luanda marcam o jantar de fim de ano. E quem organiza procura catering no telemóvel, entre duas reuniões.\n\nQuer ver os menus, as fotos dos eventos, o preço por pessoa e como se pede orçamento. Sem isso, passa ao seguinte.\n\nSe faz catering ou eventos, um site com os menus, as fotos e o botão do WhatsApp é o que a pessoa das compras manda ao chefe.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem faz catering e ainda manda o menu em fotografia.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -1502,7 +1646,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-21/post.jpg"
   ],
-  "legenda": "Ainda há quem pense que site é coisa de banco, de petrolífera, de empresa com escritório na Baixa.\n\nÉ ao contrário. Quem não tem loja, ou tem uma loja pequena, é quem mais precisa de um balcão que esteja aberto a qualquer hora.\n\nUm site com o seu nome, os seus produtos, os preços e o WhatsApp é esse balcão. E custa menos do que um mês de renda.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem acha que site é só para empresas grandes.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Ainda há quem pense que site é coisa de banco, de petrolífera, de empresa com escritório na Baixa.\n\nÉ ao contrário. Quem não tem loja, ou tem uma loja pequena, é quem mais precisa de um balcão que esteja aberto a qualquer hora.\n\nUm site com o seu nome, os seus produtos, os preços e o WhatsApp é esse balcão. E custa menos do que um mês de renda.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem acha que site é só para empresas grandes.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -1547,7 +1691,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-22/post.jpg"
   ],
-  "legenda": "Domingo, meia Luanda a caminho da Ilha.\n\nAntes de estacionar já se decidiu onde almoçar. No telemóvel, no carro, a ver fotos do peixe grelhado e o preço da travessa.\n\nSe o seu restaurante não tem um site com o menu, os preços, a localização e o botão para reservar, fica à espera de quem passa à porta.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda ao dono daquele restaurante da Ilha onde o peixe é sempre bom.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Domingo, meia Luanda a caminho da Ilha.\n\nAntes de estacionar já se decidiu onde almoçar. No telemóvel, no carro, a ver fotos do peixe grelhado e o preço da travessa.\n\nSe o seu restaurante não tem um site com o menu, os preços, a localização e o botão para reservar, fica à espera de quem passa à porta.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda ao dono daquele restaurante da Ilha onde o peixe é sempre bom.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -1597,7 +1741,7 @@
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-23/5.jpg",
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-23/6.jpg"
   ],
-  "legenda": "Faltam cinco semanas para o Natal, e quem vende cabazes, bolos ou prendas já está a receber pedidos.\n\nO cliente quer ver quatro coisas: uma foto de cada produto, o preço ao lado, até quando pode encomendar, e como é que chega a casa.\n\nUm site com o catálogo de Natal responde às quatro num link, que se manda no WhatsApp e se reencaminha aos grupos.\n\n(Os Cabazes da Teresa são um exemplo, não são cliente.)\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem já está a receber encomendas de Natal.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Faltam cinco semanas para o Natal, e quem vende cabazes, bolos ou prendas já está a receber pedidos.\n\nO cliente quer ver quatro coisas: uma foto de cada produto, o preço ao lado, até quando pode encomendar, e como é que chega a casa.\n\nUm site com o catálogo de Natal responde às quatro num link, que se manda no WhatsApp e se reencaminha aos grupos.\n\n(Os Cabazes da Teresa são um exemplo, não são cliente.)\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem já está a receber encomendas de Natal.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": false,
   "instagram": true
  },
@@ -1612,7 +1756,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/identidade/2026-11-23/post.jpg"
   ],
-  "legenda": "Escolheu o azul no telemóvel, ficou lindo. Chega a lona da gráfica e o azul é outro.\n\nNão é culpa da gráfica. O ecrã e a impressão fazem a cor de maneiras diferentes, e cada um precisa do seu código.\n\nNa identidade visual, cada cor da marca sai com o código para o ecrã e o código para imprimir. A gráfica, o pintor e quem faz a página acertam sempre. A identidade são 45.000 Kz, pronta em 72 horas.\n\nManda a quem já recebeu da gráfica uma lona com a cor errada.\n\nWhatsApp: 944 977 997\n\n#IdentidadeExpress #DesignAngola #Luanda #Angola #Logotipo",
+  "legenda": "Escolheu o azul no telemóvel, ficou lindo. Chega a lona da gráfica e o azul é outro.\n\nNão é culpa da gráfica. O ecrã e a impressão fazem a cor de maneiras diferentes, e cada um precisa do seu código.\n\nNa identidade visual, cada cor da marca sai com o código para o ecrã e o código para imprimir. A gráfica, o pintor e quem faz a página acertam sempre. A identidade são 45.000 Kz, pronta em 24 horas.\n\nManda a quem já recebeu da gráfica uma lona com a cor errada.\n\nWhatsApp: 944 977 997\n\n#IdentidadeExpress #DesignAngola #Luanda #Angola #Logotipo",
   "facebook": true,
   "instagram": true
  },
@@ -1647,7 +1791,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-24/post.jpg"
   ],
-  "legenda": "Muita gente em Luanda já foi enganada por uma página nas redes. Por isso o cliente desconfia antes de pagar.\n\n\"Vocês existem mesmo?\" é uma pergunta justa. E responder \"sim, existimos\" no WhatsApp nem sempre chega.\n\nUm site com o nome do negócio, a morada, fotografias reais do espaço e da equipa, e um domínio em seu nome, mostra que há alguém a sério do outro lado.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem já ouviu \"vocês existem mesmo?\".\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Muita gente em Luanda já foi enganada por uma página nas redes. Por isso o cliente desconfia antes de pagar.\n\n\"Vocês existem mesmo?\" é uma pergunta justa. E responder \"sim, existimos\" no WhatsApp nem sempre chega.\n\nUm site com o nome do negócio, a morada, fotografias reais do espaço e da equipa, e um domínio em seu nome, mostra que há alguém a sério do outro lado.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem já ouviu \"vocês existem mesmo?\".\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -1696,7 +1840,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-25/post.jpg"
   ],
-  "legenda": "O carro morreu a meio da via. O condutor pega no telemóvel e escreve: \"mecânico perto de mim\".\n\nAparece uma oficina a 12 km. A que está a 500 metros, com o melhor mecânico do bairro, não aparece, porque nunca disse à internet onde está.\n\nUm site com o nome da oficina, a morada, o mapa, o horário e o botão do WhatsApp ajuda quem procura \"perto de mim\" a encontrá-lo.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda ao mecânico do bairro que todos conhecem e o mapa não.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "O carro morreu a meio da via. O condutor pega no telemóvel e escreve: \"mecânico perto de mim\".\n\nAparece uma oficina a 12 km. A que está a 500 metros, com o melhor mecânico do bairro, não aparece, porque nunca disse à internet onde está.\n\nUm site com o nome da oficina, a morada, o mapa, o horário e o botão do WhatsApp ajuda quem procura \"perto de mim\" a encontrá-lo.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda ao mecânico do bairro que todos conhecem e o mapa não.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -1741,7 +1885,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-26/post.jpg"
   ],
-  "legenda": "Um número de telefone diz como falar consigo. Não diz o que vende, quanto custa, nem se vale a pena ligar.\n\nÉ como uma loja de porta fechada: só entra quem já sabe o que lá está dentro.\n\nUm site é a porta aberta. O cliente vê, escolhe, e quando liga ou manda mensagem já sabe o que quer.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem tem o negócio inteiro num número de telefone.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Um número de telefone diz como falar consigo. Não diz o que vende, quanto custa, nem se vale a pena ligar.\n\nÉ como uma loja de porta fechada: só entra quem já sabe o que lá está dentro.\n\nUm site é a porta aberta. O cliente vê, escolhe, e quando liga ou manda mensagem já sabe o que quer.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem tem o negócio inteiro num número de telefone.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -1786,7 +1930,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-27/post.jpg"
   ],
-  "legenda": "Hoje é Black Friday, e muita gente em Luanda anda de telemóvel na mão a comparar.\n\nAbre três lojas, vê três preços, lê as condições e decide. A loja que pede \"preço no off\" fica fora da conta antes de começar.\n\nMostrar o preço no site não é fazer promoção. É deixar o cliente comparar consigo lá dentro.\n\nAqui não há Black Friday: o nosso preço é o mesmo o ano todo, e está escrito. Sites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem hoje vai passar o dia a responder \"quanto é?\".\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Hoje é Black Friday, e muita gente em Luanda anda de telemóvel na mão a comparar.\n\nAbre três lojas, vê três preços, lê as condições e decide. A loja que pede \"preço no off\" fica fora da conta antes de começar.\n\nMostrar o preço no site não é fazer promoção. É deixar o cliente comparar consigo lá dentro.\n\nAqui não há Black Friday: o nosso preço é o mesmo o ano todo, e está escrito. Sites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem hoje vai passar o dia a responder \"quanto é?\".\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -1816,7 +1960,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/marketing/2026-11-28/post.jpg"
   ],
-  "legenda": "Quando um negócio começa a trabalhar connosco, há um prazo: a máquina no ar em 8 dias.\n\nNo dia 1, quase sempre é assim: o perfil não diz o que vende, o WhatsApp é o pessoal, cada resposta escreve-se de raiz e não há plano.\n\nNo dia 8: o perfil arrumado, o WhatsApp de empresa pronto, as respostas prontas e o mês aprovado e a sair.\n\nNão prometemos clientes. Prometemos a máquina no ar, e os números às claras todos os meses.\n\nManda a quem está a começar nas redes e não sabe por onde.\n\nWhatsApp: 944 977 997\n\n#MarketingExpress #NegociosEmAngola #Luanda #Angola #Empreendedorismo",
+  "legenda": "Quando um negócio começa a trabalhar connosco, há um prazo: a máquina no ar em 24 horas.\n\nHoje, quase sempre é assim: o perfil não diz o que vende, o WhatsApp é o pessoal, cada resposta escreve-se de raiz e não há plano.\n\n24 horas depois: o perfil arrumado, o WhatsApp de empresa pronto, as respostas prontas e o mês aprovado e a sair.\n\nNão prometemos clientes. Prometemos a máquina no ar, e os números às claras todos os meses.\n\nManda a quem está a começar nas redes e não sabe por onde.\n\nWhatsApp: 944 977 997\n\n#MarketingExpress #NegociosEmAngola #Luanda #Angola #Empreendedorismo",
   "facebook": true,
   "instagram": true
  },
@@ -1836,7 +1980,7 @@
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-28/5.jpg",
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-28/6.jpg"
   ],
-  "legenda": "Seja sincero: qual destas já disse?\n\n\"É caro.\" Sites a partir de 70.000 Kz, com o domínio em seu nome.\n\"Não tenho tempo.\" Nós escrevemos o texto e fazemos o site, e o ESSENCIAL fica no ar em 3 dias.\n\"Já tenho Instagram.\" Óptimo: o site é a casa própria, e o Instagram a porta que leva lá.\n\"Os meus clientes não usam internet.\" Usam o WhatsApp todos os dias, e um site é um link que se manda por lá.\n\nDiga nos comentários qual era a sua.\n\nManda a quem tem sempre uma desculpa para não ter site.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Seja sincero: qual destas já disse?\n\n\"É caro.\" Sites a partir de 70.000 Kz, com o domínio em seu nome.\n\"Não tenho tempo.\" Nós escrevemos o texto e fazemos o site, e o ESSENCIAL fica no ar em 24 horas.\n\"Já tenho Instagram.\" Óptimo: o site é a casa própria, e o Instagram a porta que leva lá.\n\"Os meus clientes não usam internet.\" Usam o WhatsApp todos os dias, e um site é um link que se manda por lá.\n\nDiga nos comentários qual era a sua.\n\nManda a quem tem sempre uma desculpa para não ter site.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": false,
   "instagram": true
  },
@@ -1885,7 +2029,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-29/post.jpg"
   ],
-  "legenda": "Em Dezembro, muita gente que vive fora quer mandar alguma coisa para casa: um cabaz, um bolo, flores, um presente para a mãe.\n\nCompra de longe, à noite, pelo telemóvel. Precisa de ver o produto, o preço, se entregam no bairro da família, e como paga a partir de onde está.\n\nUm site com o catálogo, as zonas de entrega e as formas de pagamento faz essa venda sem ninguém ter de estar acordado do lado de cá.\n\nSites a partir de 70.000 Kz, no ar em 3 dias.\n\nManda a quem tem família fora que manda presentes no Natal. E a quem os vende.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Em Dezembro, muita gente que vive fora quer mandar alguma coisa para casa: um cabaz, um bolo, flores, um presente para a mãe.\n\nCompra de longe, à noite, pelo telemóvel. Precisa de ver o produto, o preço, se entregam no bairro da família, e como paga a partir de onde está.\n\nUm site com o catálogo, as zonas de entrega e as formas de pagamento faz essa venda sem ninguém ter de estar acordado do lado de cá.\n\nSites a partir de 70.000 Kz, no ar em 24 horas.\n\nManda a quem tem família fora que manda presentes no Natal. E a quem os vende.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -1934,7 +2078,7 @@
   "imagens": [
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/2026-11-30/post.jpg"
   ],
-  "legenda": "Hoje acaba Novembro. Amanhã começam as festas de empresa, os jantares de família, os aniversários de fim de ano.\n\nE já há quem procure no telemóvel: decoração, bolos, catering, salão, som. Escolhe quem consegue ver.\n\nSe o seu negócio vive de Dezembro, um site com fotos dos trabalhos, os pacotes e o botão do WhatsApp ainda fica pronto a tempo: o ESSENCIAL fica no ar em 3 dias.\n\nSites a partir de 70.000 Kz.\n\nManda a quem decora festas e ainda mostra o trabalho só no estado do WhatsApp.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
+  "legenda": "Hoje acaba Novembro. Amanhã começam as festas de empresa, os jantares de família, os aniversários de fim de ano.\n\nE já há quem procure no telemóvel: decoração, bolos, catering, salão, som. Escolhe quem consegue ver.\n\nSe o seu negócio vive de Dezembro, um site com fotos dos trabalhos, os pacotes e o botão do WhatsApp ainda fica pronto a tempo: o ESSENCIAL fica no ar em 24 horas.\n\nSites a partir de 70.000 Kz.\n\nManda a quem decora festas e ainda mostra o trabalho só no estado do WhatsApp.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
   "facebook": true,
   "instagram": true
  },
@@ -1950,150 +2094,6 @@
    "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/identidade/2026-11-30/post.jpg"
   ],
   "legenda": "Se o dia do salário fosse uma marca, era a mais esperada de Angola. Ninguém se esquece da data, e toda a gente pergunta: já caiu?\n\nUma marca boa é esperada assim. O cliente sabe quando ela aparece e o que ela traz.\n\nFim de mês é boa altura para olhar para a cara do seu negócio. Em dezembro, quem passa à sua porta reconhece-a?\n\nQual fazemos a seguir? Diga nos comentários.\n\nManda ao amigo que vai abrir negócio em 2027 e ainda não tem logótipo.\n\nWhatsApp: 944 977 997\n\n#IdentidadeExpress #DesignAngola #Luanda #Angola #Logotipo",
-  "facebook": true,
-  "instagram": true
- },
- {
-  "data": "2026-10-20",
-  "hora": "agora",
-  "casa": "marketing",
-  "pagina": "MARKETING EXPRESS",
-  "tipo": "fixado",
-  "ordem": 1,
-  "molde": "capa",
-  "slug": "quem-somos",
-  "imagens": [
-   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/marketing/fixados/1.jpg"
-  ],
-  "legenda": "Somos a MARKETING EXPRESS, uma assessoria de marketing em Luanda para negócios que já vendem e querem mais clientes.\n\nTratamos das suas redes do princípio ao fim: o plano do mês, as publicações, os stories, os anúncios quando os há, e o relatório com as conversas que chegaram e quanto custou cada uma.\n\nVocê aprova o mês de uma vez e volta ao seu negócio.\n\nVeja nos posts fixados como funciona e quanto custa.\n\nWhatsApp: 944 977 997\n\n#MarketingExpress #NegociosEmAngola #Luanda #Angola #Empreendedorismo",
-  "facebook": true,
-  "instagram": true
- },
- {
-  "data": "2026-10-20",
-  "hora": "agora",
-  "casa": "marketing",
-  "pagina": "MARKETING EXPRESS",
-  "tipo": "fixado",
-  "ordem": 2,
-  "molde": "passos",
-  "slug": "como-funciona",
-  "imagens": [
-   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/marketing/fixados/2.jpg"
-  ],
-  "legenda": "Como funciona a assessoria, do primeiro dia ao relatório.\n\n1. Uma conversa: diz-nos o que quer alcançar.\n2. Ao dia 8, as publicações e os anúncios estão no ar.\n3. Vê o calendário do mês inteiro e aprova de uma vez.\n4. Até ao dia 3 de cada mês recebe o relatório: conversas e quanto custou cada uma.\n5. Tudo pelo WhatsApp, com resposta em até 5 minutos dentro do horário.\n\nSem reuniões que lhe tiram a manhã.\n\nWhatsApp: 944 977 997\n\n#MarketingExpress #NegociosEmAngola #Luanda #Angola #Empreendedorismo",
-  "facebook": true,
-  "instagram": true
- },
- {
-  "data": "2026-10-20",
-  "hora": "agora",
-  "casa": "marketing",
-  "pagina": "MARKETING EXPRESS",
-  "tipo": "fixado",
-  "ordem": 3,
-  "molde": "oferta",
-  "slug": "quanto-custa",
-  "imagens": [
-   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/marketing/fixados/3.jpg"
-  ],
-  "legenda": "Quanto custa? A assessoria começa em 35.000 Kz por mês.\n\nAs nossas garantias, por escrito:\n- Sem fidelização. Sai quando quiser, sem multa, e o que fizemos fica seu.\n- Cada publicação que falhar a data por culpa nossa, no mês seguinte publicamos duas.\n- Se, depois das duas rondas, o calendário do primeiro mês não lhe servir, devolvo-lhe o que pagou.\n\nOs anúncios, quando os há, pagam-se à parte, directamente à plataforma.\n\nEscreva-nos e dizemos-lhe qual dos planos serve ao seu negócio.\n\nWhatsApp: 944 977 997\n\n#MarketingExpress #NegociosEmAngola #Luanda #Angola #Empreendedorismo",
-  "facebook": true,
-  "instagram": true
- },
- {
-  "data": "2026-10-20",
-  "hora": "agora",
-  "casa": "website",
-  "pagina": "WEBSITE EXPRESS",
-  "tipo": "fixado",
-  "ordem": 1,
-  "molde": "capa",
-  "slug": "quem-somos",
-  "imagens": [
-   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/fixados/1.jpg"
-  ],
-  "legenda": "Somos a WEBSITE EXPRESS. Fazemos sites para pequenos negócios de Luanda.\n\nUm site com o seu nome, o que vende, os preços, a morada e o botão do WhatsApp, num link que manda a qualquer cliente e que abre bem no telemóvel, mesmo com a rede fraca.\n\nO primeiro plano fica no ar em 3 dias.\n\nVeja nos posts fixados como funciona e quanto custa.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
-  "facebook": true,
-  "instagram": true
- },
- {
-  "data": "2026-10-20",
-  "hora": "agora",
-  "casa": "website",
-  "pagina": "WEBSITE EXPRESS",
-  "tipo": "fixado",
-  "ordem": 2,
-  "molde": "passos",
-  "slug": "como-funciona",
-  "imagens": [
-   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/fixados/2.jpg"
-  ],
-  "legenda": "Como funciona, do WhatsApp ao site no ar.\n\n1. Conta-nos o negócio pelo WhatsApp: o que vende, os preços, as fotografias.\n2. Paga metade e dizemos-lhe a hora exacta em que fica pronto.\n3. Em 72 horas, o site no ar com o seu nome (no plano de 70.000 Kz).\n4. Nos primeiros 30 dias, duas alterações pequenas incluídas.\n\nNão precisa de sair do seu negócio para nada.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
-  "facebook": true,
-  "instagram": true
- },
- {
-  "data": "2026-10-20",
-  "hora": "agora",
-  "casa": "website",
-  "pagina": "WEBSITE EXPRESS",
-  "tipo": "fixado",
-  "ordem": 3,
-  "molde": "oferta",
-  "slug": "quanto-custa",
-  "imagens": [
-   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/website/fixados/3.jpg"
-  ],
-  "legenda": "Quanto custa? Sites a partir de 70.000 Kz, no ar em 3 dias.\n\nAs nossas garantias, por escrito:\n- O domínio fica em seu nome, sempre. Se um dia quiser sair, leva-o.\n- Digo-lhe a hora exacta. Se eu passar dela, faço-lhe um post à sua escolha, por minha conta (no plano de 70.000 Kz).\n- Se, depois das duas rondas, não quiser pôr o site no ar, devolvo-lhe a primeira metade.\n\nPaga-se em duas metades.\n\nEscreva-nos e dizemos-lhe qual dos planos serve ao seu negócio.\n\nWhatsApp: 944 977 997\n\n#WebsiteExpress #SitesEmAngola #Luanda #Angola #NegocioOnline",
-  "facebook": true,
-  "instagram": true
- },
- {
-  "data": "2026-10-20",
-  "hora": "agora",
-  "casa": "identidade",
-  "pagina": "IDENTIDADE EXPRESS",
-  "tipo": "fixado",
-  "ordem": 1,
-  "molde": "capa",
-  "slug": "quem-somos",
-  "imagens": [
-   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/identidade/fixados/1.jpg"
-  ],
-  "legenda": "Somos a IDENTIDADE EXPRESS. Desenhamos logótipos e identidades visuais para quem está a abrir negócio em Luanda.\n\nUm logótipo que se lê na foto de perfil, que imprime na lona sem desfocar e que é só seu. Mostramos sempre três caminhos diferentes para escolher.\n\nTudo pelo WhatsApp, sem ter de sair do seu negócio.\n\nVeja nos posts fixados como funciona e quanto custa.\n\nWhatsApp: 944 977 997\n\n#IdentidadeExpress #DesignAngola #Luanda #Angola #Logotipo",
-  "facebook": true,
-  "instagram": true
- },
- {
-  "data": "2026-10-20",
-  "hora": "agora",
-  "casa": "identidade",
-  "pagina": "IDENTIDADE EXPRESS",
-  "tipo": "fixado",
-  "ordem": 2,
-  "molde": "passos",
-  "slug": "como-funciona",
-  "imagens": [
-   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/identidade/fixados/2.jpg"
-  ],
-  "legenda": "Como funciona, da conversa ao logótipo.\n\n1. Conta-nos o negócio pelo WhatsApp: o nome, o que vende, para quem.\n2. Paga metade e digo-lhe a hora exacta da entrega.\n3. Até 24 horas depois, três logótipos diferentes para escolher.\n4. Duas rondas de alteração incluídas, e os ficheiros para tudo: a lona, o cartão, a foto de perfil.\n\nWhatsApp: 944 977 997\n\n#IdentidadeExpress #DesignAngola #Luanda #Angola #Logotipo",
-  "facebook": true,
-  "instagram": true
- },
- {
-  "data": "2026-10-20",
-  "hora": "agora",
-  "casa": "identidade",
-  "pagina": "IDENTIDADE EXPRESS",
-  "tipo": "fixado",
-  "ordem": 3,
-  "molde": "oferta",
-  "slug": "quanto-custa",
-  "imagens": [
-   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/identidade/fixados/3.jpg"
-  ],
-  "legenda": "Quanto custa, sem ter de perguntar:\n- Logótipo, três caminhos para escolher: 25.000 Kz, em 24 horas\n- Identidade visual, com o manual da marca: 45.000 Kz, em 72 horas\n- Um post: 5.000 Kz\n- Um carrossel, até 5 folhas: 15.000 Kz\n\nAs nossas garantias:\n- Digo-lhe a hora exacta. Se eu passar dela, faço-lhe um post à sua escolha, por minha conta.\n- Se, depois das duas rondas, nenhum dos três caminhos lhe servir, devolvo-lhe a primeira metade.\n\nPaga-se em duas metades. As 24 horas contam a partir do briefing fechado e da primeira metade.\n\nWhatsApp: 944 977 997\n\n#IdentidadeExpress #DesignAngola #Luanda #Angola #Logotipo",
   "facebook": true,
   "instagram": true
  }
