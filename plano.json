@@ -1080,6 +1080,29 @@
  },
  {
   "data": "2026-11-09",
+  "hora": "18:45",
+  "casa": "marketing",
+  "pagina": "MARKETING EXPRESS",
+  "tipo": "carrossel",
+  "molde": "meme",
+  "slug": "fiz-o-meu-design-com-ia",
+  "imagens": [
+   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/marketing/2026-11-09-ia-contra-designer/1.jpg",
+   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/marketing/2026-11-09-ia-contra-designer/2.jpg",
+   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/marketing/2026-11-09-ia-contra-designer/3.jpg",
+   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/marketing/2026-11-09-ia-contra-designer/4.jpg",
+   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/marketing/2026-11-09-ia-contra-designer/5.jpg",
+   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/marketing/2026-11-09-ia-contra-designer/6.jpg",
+   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/marketing/2026-11-09-ia-contra-designer/7.jpg",
+   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/marketing/2026-11-09-ia-contra-designer/8.jpg",
+   "https://raw.githubusercontent.com/gersonbaptistag4-dot/express-posts/main/marketing/2026-11-09-ia-contra-designer/9.jpg"
+  ],
+  "legenda": "Fiz o meu design com IA 😎 Ficou horroroso.\n\nFogo, asas, correntes e letra a gritar por todo o lado. Parece trabalho, mas ninguém lê nada. Desliza e vê o que fizemos para negócios reais em Angola.\n\nQual destes te parava o dedo? Diz nos comentários.\n\nA partir de 35.000 Kz por mês, o calendário do mês em 24 horas. WhatsApp 944 977 997.\n\nManda a quem ainda faz o flyer da loja numa frase na IA.",
+  "facebook": false,
+  "instagram": true
+ },
+ {
+  "data": "2026-11-09",
   "hora": "19:00",
   "casa": "identidade",
   "pagina": "IDENTIDADE EXPRESS",
